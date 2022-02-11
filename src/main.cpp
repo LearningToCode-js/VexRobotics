@@ -231,7 +231,7 @@ void usercontrol(void) {
       break;
     }
     wait(20, msec);  
-  }
+  } 
 }
 
 //
